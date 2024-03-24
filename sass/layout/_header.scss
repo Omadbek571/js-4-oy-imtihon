@@ -1,0 +1,31 @@
+.header1 {
+  font-family: "Roboto", sans-serif;
+  background: rgb(52, 201, 182);
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  align-items: center;
+  padding-top: 28px;
+}
+.nav-logo {
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 47px;
+  color: rgb(199, 242, 255);
+}
+.logo-span {
+  color: white;
+}
+.nav-ul {
+  display: flex;
+  gap: 39px;
+}
+.link {
+  color: rgb(235, 244, 243);
+}
+.burger {
+  display: none;
+}

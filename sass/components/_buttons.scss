@@ -1,0 +1,40 @@
+.btn {
+  color: black;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 25px;
+  background: rgb(255, 255, 255);
+  padding: 15px 32px;
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+}
+.btn:hover {
+  background: rgb(199, 242, 255);
+}
+.btn1 {
+  color: white;
+  border-radius: 23px;
+  background: rgb(52, 201, 182);
+  padding: 13px 26px;
+  margin-top: 36px;
+  font-family: Roboto;
+  width: 150px;
+  display: flex;
+  margin-inline: auto;
+}
+.btn1:hover {
+  background: aqua;
+}
+.sec1-btn1{
+  color: white;
+  width: 141px;
+height: 46px;
+padding: 13px 30px;
+background: rgb(52, 201, 182);
+margin-bottom: 100px;
+}
+.sec1-btn1:hover{
+  background: red;
+}

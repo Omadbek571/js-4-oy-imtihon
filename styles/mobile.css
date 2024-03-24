@@ -1,0 +1,79 @@
+@media (max-width: 800px) {
+    .burger {
+        display: block;
+    }
+
+    .nav-ul {
+        display: none;
+    }
+
+    .main {
+        background: linear-gradient(to right bottom, rgb(52, 201, 182) 100%, #fff 20%);
+        color: white;
+        max-height: 500px;
+    }
+
+    .boxing1 {
+        flex-direction: column;
+        margin-top: -70px;
+    }
+
+    .box-box1 {
+        flex-direction: column;
+        margin-inline: auto;
+    }
+
+    .hero-box2 {
+        display: flex;
+        margin-inline: auto;
+    }
+
+    .hero-title {
+        text-align: center;
+        margin-top: -100px;
+    }
+
+    .hero-box1-text1 {
+        text-align: center;
+        display: flex;
+        margin-inline: auto;
+    }
+
+    .buttons {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .main {
+        background-color: red;
+    }
+
+    .hero {
+        flex-direction: column;
+        gap: 150px;
+    }
+
+
+
+}
+
+@media (max-width: 1100px) {
+
+    .sec1 {
+        margin-inline: auto;
+        position: relative;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .sec1-btn1 {
+        display: flex;
+        margin-inline: auto;
+    }
+
+    .sec2 {
+        display: none;
+    }
+}
+
+;

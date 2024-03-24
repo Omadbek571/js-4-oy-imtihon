@@ -212,6 +212,10 @@ a {
   margin-bottom: 59px;
 }
 
+.link:hover {
+  color: black;
+}
+
 .hero-title {
   font-family: "Roboto", sans-serif;
 }
